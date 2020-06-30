@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/amax/wyq/jpegmoni/90/i90model/model.ckpt-110000"
+all_model_checkpoint_paths: "/home/amax/wyq/jpegmoni/90/i90model/model.ckpt-90000"
+all_model_checkpoint_paths: "/home/amax/wyq/jpegmoni/90/i90model/model.ckpt-95000"
+all_model_checkpoint_paths: "/home/amax/wyq/jpegmoni/90/i90model/model.ckpt-100000"
+all_model_checkpoint_paths: "/home/amax/wyq/jpegmoni/90/i90model/model.ckpt-105000"
+all_model_checkpoint_paths: "/home/amax/wyq/jpegmoni/90/i90model/model.ckpt-110000"
