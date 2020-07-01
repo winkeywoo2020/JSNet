@@ -1,6 +1,6 @@
 # A simulation network of JPEG lossy compression for color images
 ## Overview
-#### It is a JPEG simulation network which is proposed to reappear the whole procedure of the JPEG lossy compression and restoration except entropy encoding as realistically as possible for color images. The steps of sampling, DCT, and quantization are modelled by the max-pooling layer, convolution layer, and 3D noise-mask, respectively. The proposed JSNet can simulate JPEG lossy compression with any quality factors. 
+#### JSNet is a JPEG simulation network which is proposed to reappear the whole procedure of the JPEG lossy compression and restoration except entropy encoding as realistically as possible for color images. The steps of sampling, DCT, and quantization are modelled by the max-pooling layer, convolution layer, and 3D noise-mask, respectively. The proposed JSNet can simulate JPEG lossy compression with any quality factors. 
 [JSNet: A simulation network of JPEG lossy compression and restoration for robust image watermarking against JPEG attack](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300783)
 
 ## Prerequisites
