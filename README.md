@@ -20,7 +20,7 @@
 ## Training and Test Details
 #### To train a model, you need to prepare two TXT files for data loading and you are welcome to modify the source code using other data loading methods. Just run the JSNet90_train_ImageNet.py on your machine for training. The same goes for testing. In the training stage, you may adjust parameters for a better model. You can also apply the trained model in the CRWNet if you are interested in watermarking. We provide two versions, the basic CRWNet and the CRWNet90.
 ### Warm Tips: 
-#### 1)	Please pay attention to checking whether the original images are correspond to the target images, otherwise the training will fail.
+#### 1)	Please pay attention to checking whether the original images are corresponded to the target images, otherwise the training will fail.
 #### 2)	If you want to simulate JPEG with other quality factors, you need to make two changes:
 * a) modify your TrainGoal folder with the target compressed images;
 * b) modify the corresponding network parameters.
