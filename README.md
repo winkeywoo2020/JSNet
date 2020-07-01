@@ -26,8 +26,8 @@
 * b) modify the corresponding network parameters.
 
 ## Related Works
-#### 1) [Hidden: Hiding data with deep networks](https://openaccess.thecvf.com/content_ECCV_2018/html/Jiren_Zhu_HiDDeN_Hiding_Data_ECCV_2018_paper.html) 
-#### 2) [ReDMark: framework for residual diffusion watermarking based on deep networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417419308759)
+#### [[1]	Zhu J, Kaplan R, Johnson J, et al. Hidden: Hiding data with deep networks. In Proceedings of the European Conference on Computer Vision (ECCV) 2018; 657-672.](https://openaccess.thecvf.com/content_ECCV_2018/html/Jiren_Zhu_HiDDeN_Hiding_Data_ECCV_2018_paper.html)  
+#### [[2]	Ahmadi M, Norouzi A, Karimi N, et al. ReDMark: framework for residual diffusion watermarking based on deep networks. Expert Systems with Applications, 2020; 146: 113157.](https://www.sciencedirect.com/science/article/abs/pii/S0957417419308759)
 
 
 
